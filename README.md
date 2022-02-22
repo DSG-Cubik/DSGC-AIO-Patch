@@ -23,6 +23,8 @@ Attempts to fill the gaps in compatability between the following mods:
 	
 	Mod Dependencies = None (but does not take away the dependencies for other respective mods)
 	
+	Can optionally be controlled by Patch Manager if installed
+	
 	Only a few items aren't on the list yet, sorry theres alot I'm still working on finishing it
 	
 	During testing OSE does not consider B9 Part Switch as a dependency but the tanks don't work without it
