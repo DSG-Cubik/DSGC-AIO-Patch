@@ -48,7 +48,7 @@ Attempts to fill the gaps in compatability between the following mods:
 
 
 
-# [Download Link]()
+# [Download Link](https://github.com/DSG-Cubik/DSGC-AIO-Patch)
 
 ## [Issue Tracker](https://github.com/DSG-Cubik/DSGC-AIO-Patch/issues)
 
