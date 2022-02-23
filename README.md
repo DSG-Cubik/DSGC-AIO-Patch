@@ -56,9 +56,9 @@ Attempts to fill the gaps in compatability between the following mods:
 
 For advice and insight easing the process of making this
 
-Randazzo
+@Randazzo
 
-@zer0Kerbal (and an extra Thank You for the work making this page easier on the eyes)  
+@[zer0Kerbal](https://github.com/zer0Kerbal) (and an extra Thank You for the work making this page easier on the eyes)  
 
 ## Legal
 
