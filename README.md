@@ -6,12 +6,12 @@ Full Compatability Patch (v1.0)
 
 Attempts to fill the gaps in compatability between the following mods:
 	
-	Modular Kolonization Systems
-	(Basically the whole USI Constellation)
-	OSE Workshop Reworked
-	Kerbal Planetary Base Systems
-	Extraplanetary Launchpads
-	... Possibly More
+- Modular Kolonization Systems
+- (Basically the whole USI Constellation)
+- OSE Workshop Reworked
+- Kerbal Planetary Base Systems
+- Extraplanetary Launchpads
+- ... Possibly More
 	
 	I will attempt to balance the resources between the different construction methods but cannot promise anything.
 
@@ -19,7 +19,7 @@ Attempts to fill the gaps in compatability between the following mods:
 	
 	-DOES NOT- do anything until the required mods are installed, and can be used without the entire collection of mods installed
 	
-	-Tested on KSP Version 1.12.9-
+	-Tested on KSP Version 1.12.3-
 	
 	Mod Dependencies = None (but does not take away the dependencies for other respective mods)
 	
@@ -31,11 +31,11 @@ Attempts to fill the gaps in compatability between the following mods:
 
 ## Mods Affected
 	
-	Modular Kolonization Systems
-	Kerbal Planetary Base Systems
-	Extraplanetary Launchpads
-	OSE Workshop Reworked
-	B9 Part Switch
+- Modular Kolonization Systems
+- Kerbal Planetary Base Systems
+- Extraplanetary Launchpads
+- OSE Workshop Reworked
+- B9 Part Switch
 
 ## Installation
 	
@@ -58,7 +58,7 @@ For advice and insight easing the process of making this
 
 Randazzo
 
-Zer0kerbal
+@zer0Kerbal
 
 ## Legal
 
@@ -72,13 +72,13 @@ All images were edited and changed in some form by me but still fall under the s
 	
 Index:	
 	
-	1.MKS Integration
-		1A.KBPS Parts
-		1B.OSE Parts
-		1C.B9 Tank Type
-		1D.EL Parts
-	2.OSE Integration
-		2A.EL Parts
+	1. MKS Integration
+		1A. KBPS Parts
+		1B. OSE Parts
+		1C. B9 Tank Type
+		1D. EL Parts
+	2. OSE Integration
+		2A. EL Parts
 		
 1.MKS Integration
 	
