@@ -19,7 +19,7 @@ Attempts to fill the gaps in compatability between the following mods:
 	
 	-DOES NOT- do anything until the required mods are installed, and can be used without the entire collection of mods installed
 	
-	-Tested on KSP Version 1.12.9-
+	-Tested on KSP Version 1.12.3-
 	
 	Mod Dependencies = None (but does not take away the dependencies for other respective mods)
 	
@@ -58,7 +58,7 @@ For advice and insight easing the process of making this
 
 Randazzo
 
-Zer0kerbal
+@zer0Kerbal
 
 ## Legal
 
