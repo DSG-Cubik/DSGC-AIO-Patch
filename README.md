@@ -60,6 +60,14 @@ Randazzo
 
 Zer0kerbal
 
+## Legal
+
+Images used are under [License](https://creativecommons.org/publicdomain/zero/1.0/) (CC0 1.0)
+
+Credit for images [used](http://clipart-library.com/)
+
+All images were edited and changed in some form by me but still fall under the same license
+
 ## More Info
 	
 Index:	
@@ -364,9 +372,3 @@ Index:
 					
 					3D Printing
 					Recycling
-					
-Images used are under [License](https://creativecommons.org/publicdomain/zero/1.0/) (CC0 1.0)
-
-Credit for images [used](http://clipart-library.com/)
-
-All images were edited and changed in some form by me but still fall under the same license
