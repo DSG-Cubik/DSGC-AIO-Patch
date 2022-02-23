@@ -58,7 +58,7 @@ For advice and insight easing the process of making this
 
 Randazzo
 
-@zer0Kerbal
+@zer0Kerbal (and an extra Thank You for the work making this page easier on the eyes)  
 
 ## Legal
 
