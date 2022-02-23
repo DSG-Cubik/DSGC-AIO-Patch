@@ -62,7 +62,9 @@ Randazzo
 
 ## Legal
 
-Images used are under [License](https://creativecommons.org/publicdomain/zero/1.0/) (CC0 1.0)
+Licensed under [MIT](https://github.com/DSG-Cubik/DSGC-AIO-Patch/blob/main/LICENSE)
+
+Images used are under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Credit for images [used](http://clipart-library.com/)
 
